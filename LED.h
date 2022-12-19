@@ -1,6 +1,6 @@
 /**************************************/
 /* Description : SEV interface file   */
-/* Author      : Abo elnour           */
+/* Author      : Khaled Rashad       */
 /* Version     : 0.1v                 */
 /* Date        : 2 Dec 2022           */
 /* History     : 0.1v initial creation*/
