@@ -1,10 +1,8 @@
 /*==============================================================================*
  * File        : BIT_MATH.h							     						*
  * Description : This file includes macros used for Bit manipulation          	*
- * Author      : Mahmoud Gharib Embedded SW Engineer 							*
+ * Author      : Khaled Rashad Embedded SW Engineer 							*
  * Date        : 																*
- * Git account : https://github.com/Mahmoud-Gharib								*
- * mail        : mahmoudgharib99999@gmail.com 									*
  *==============================================================================*/
 #ifndef BIT_MATH_H_
 #define BIT_MATH_H_
