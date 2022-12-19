@@ -1,6 +1,6 @@
 /**************************************/
 /* Description : Standard Types lib   */
-/* Author      : Abo elnour           */
+/* Author      : Khaled Rashad          */
 /* Version     : 0.2v                 */
 /* Date        : 25 Nov 2022          */
 /* History     : 0.1v initial creation*/
